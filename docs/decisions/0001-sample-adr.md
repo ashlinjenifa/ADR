@@ -5,7 +5,7 @@
 
 ## Context and Problem Statement
 
-sample
+1sample
 
 ## Considered Options
 
@@ -14,5 +14,3 @@ sample
 ## Decision Outcome
 
 Chosen option: "sample", because comes out best.
-
-## Status
